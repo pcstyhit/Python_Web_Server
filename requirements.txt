@@ -1,0 +1,6 @@
+Flask
+Flask_Cors
+Flask_RESTful
+Flask_SocketIO
+gevent-websocket
+websockets
